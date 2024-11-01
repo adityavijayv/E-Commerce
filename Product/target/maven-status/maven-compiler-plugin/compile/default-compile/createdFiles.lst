@@ -1,0 +1,11 @@
+com/example/Product/Service/CategoryService.class
+com/example/Product/Service/ProductService.class
+com/example/Product/Repository/ProductRepository.class
+com/example/Product/Model/Product.class
+com/example/Product/Controller/CategoryController.class
+com/example/Product/DTO/CategoryDTO.class
+com/example/Product/Repository/CategoryRepository.class
+com/example/Product/DTO/ProductDTO.class
+com/example/Product/ProductAndCategoriesApplication.class
+com/example/Product/Controller/ProductController.class
+com/example/Product/Model/Category.class
