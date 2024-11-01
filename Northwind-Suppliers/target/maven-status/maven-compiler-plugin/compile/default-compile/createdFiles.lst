@@ -1,0 +1,6 @@
+com/suppliers/Northwind/Suppliers/Service/SuppliersService.class
+com/suppliers/Northwind/Suppliers/Model/Suppliers.class
+com/suppliers/Northwind/Suppliers/Repository/SuppliersRepository.class
+com/suppliers/Northwind/Suppliers/NorthwindSuppliersApplication.class
+com/suppliers/Northwind/Suppliers/DTO/SuppliersDTO.class
+com/suppliers/Northwind/Suppliers/Controller/SuppliersController.class
